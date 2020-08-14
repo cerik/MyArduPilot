@@ -16,7 +16,7 @@
 >>Antenna Tracker : [code](https://github.com/ArduPilot/ardupilot/tree/master/AntennaTracker), [wiki](http://antennatracker.ardupilot.com)
 
 ### User Support & Discussion Forums ###
->>APM Forum: [http://ardupilot.com/forum/index.php](http://ardupilot.com/forum/index.php)
+>>APM Forum: [https://ardupilot.com/forum/index.php](https://ardupilot.com/forum/index.php)
 
 >>Community Site: [http://diydrones.com](http://diydrones.com)
 
@@ -47,7 +47,7 @@
 
 >>Desired Enhancements and Bugs can be posted to the [issues list](https://github.com/ArduPilot/ardupilot/issues).
 
->>Helping other users with log analysis on [diydrones.com](http://www.diydrones.com) and the [APM forums ](http://ardupilot.com/forum/index.php) is always appreciated:
+>>Helping other users with log analysis on [diydrones.com](http://www.diydrones.com) and the [APM forums ](https://ardupilot.com/forum/index.php) is always appreciated:
 
 >>There is a group of wiki editors as well in case documentation is your thing: ardu-wiki-editors@googlegroups.com
 
